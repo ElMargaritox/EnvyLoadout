@@ -2,7 +2,7 @@
 
 This plugin is a slightly easier version of adding charges by id and quantity
 
-Configuration: 
+# Configuration: 
 
 <?xml version="1.0" encoding="utf-8"?>
 <EnvyLoadoutConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
